@@ -7,8 +7,8 @@ from TimePassed import TimeCounter
 
 Recorder = TimeCounter()
 
-Recorder.start() # Starts Timing 
-function() # Whatever you want to time.
+Recorder.start() # Starts Timing
+foo() # Whatever you want to time.
 Recorder.stop() # Stops Timing
 Recorder.show() # Prints Time Elapsed
 ```
